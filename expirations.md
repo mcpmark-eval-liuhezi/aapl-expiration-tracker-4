@@ -44,7 +44,7 @@ are the subject of this tracker.
 ## Per-expiration stats
 
 Share price used throughout: **$331.90**
-Android for the at-the-money strike (closest listed strike to $331.90 in each chain):
+And for the at-the-money strike (closest listed strike to $331.90 in each chain):
 332.5 / 332.5 / 332.5 respectively.
 
 | Expiration | At-the-money strike | Highest-OI call strike | Highest-OI put strike | Share price used |
