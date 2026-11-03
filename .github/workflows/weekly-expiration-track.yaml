@@ -1,0 +1,11 @@
+name: Weekly AAPL Expiration Track
+
+on:
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo tracking header
+        run: echo "Weekly AAPL expiration tracker is running for mcpmark-eval-liuhezi/aapl-expiration-tracker-4"
